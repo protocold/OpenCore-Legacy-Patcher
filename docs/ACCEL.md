@@ -107,11 +107,15 @@ Workaround: Press some combination of Tab, or Tab and then Shift-Tab, or just Sh
 
 Unfortunately a very well known issue that the community is investigating. A currently known solution is to downgrade to macOS 11.2.3 or older until a proper fix can be found. Additionally logging out and logging in can resolve the issue without requiring a reboot.
 
+Another solution: Go to Apple>System Preferences>Accessibility>Display>check "Reduce Transparency" and make sure Display contrast is set to Normal.
+
 * Note, this issue should be exclusive to TeraScale 1 GPUs (ie. HD2000-4000). TeraScale 2 GPUs should not exhibit this issue.
 
 In the event Apple removes 11.2.3 from their catalogue, we've provided a mirror below:
 
 * [Install macOS 11.2.3 20D91](https://archive.org/details/install-mac-os-11.2.3-20-d-91)
+
+
 
 ## Unable to switch GPUs on 2011 15" and 17" MacBook Pros
 
